@@ -21,3 +21,16 @@
 - Being dependent on initial values.
 - Centroids can be dragged by outliers, or outliers might get their own cluster instead of being ignored. Consider removing or clipping outliers before clustering.
 
+<br></br>
+## Clustering algorithms
+- Affinity Propagation
+- Agglomerative Clustering
+- BIRCH
+- DBSCAN
+- K-Means
+- Mini-Batch K-Means
+- Mean Shift
+- OPTICS
+- Spectral Clustering
+- Gaussian Mixture Model
+
